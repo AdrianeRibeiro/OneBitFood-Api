@@ -1,24 +1,14 @@
-# README
+This is a Ruby on Rails project.
+# Getting Started
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First, run the development server:
 
-Things you may want to cover:
+rails s
 
-* Ruby version
 
-* System dependencies
+Open http://localhost:3000 with your browser to see the result.
 
-* Configuration
+<br>
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Frontend:
+https://github.com/AdrianeRibeiro/OneBitFood-Client
